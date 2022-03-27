@@ -18,7 +18,10 @@ NOTE: As you write code, you should regularly add comments to clarify the functi
 
 Try creating one of each type of comment.
 
-### Answers
+---
+
+## Answer
+
 
 ```
 // This is single-line
