@@ -15,13 +15,14 @@ var someVariable;
 var anotherVariableName;
 var thisVariableNameIsSoLong;
 ```
----
-
-Modify the existing declarations and assignments so their names use camelCase.
-
-Do not create any new variables.
 
 ---
+
+## Instructions
+
+- Modify the existing declarations and assignments so their names use camelCase.
+
+- Do not create any new variables.
 
 ### Before
 

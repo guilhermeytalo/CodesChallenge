@@ -16,14 +16,17 @@ var ourName;
 
 ---
 
-creates a variable called `ourName`. In JavaScript we end statements with semicolons. Variable names can be made up of numbers, letters, and `$` or `_`, but may not contain spaces or start with a number.
+## Instructions
 
-Use the var keyword to create a variable called myName.
+- creates a variable called `ourName`. In JavaScript we end statements with semicolons. Variable names can be made up of numbers, letters, and `$` or `_`, but may not contain spaces or start with a number.
 
-Hint
-Look at the ourName example above if you get stuck.
+- Use the var keyword to create a variable called myName.
 
----
-## Answer
+- Hint Look at the ourName example above if you get stuck.
 
-`var myName;`
+
+### Answer
+
+```
+var myName;
+```
